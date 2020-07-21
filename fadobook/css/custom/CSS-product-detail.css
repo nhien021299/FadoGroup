@@ -1,0 +1,9 @@
+.img-product{
+	height: 14rem;
+}
+.pagination li{
+	margin: auto;
+}
+.pagination-activeve {
+	background-color: #eb3e32 !important; 
+}
